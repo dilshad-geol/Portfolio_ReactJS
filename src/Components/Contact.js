@@ -92,23 +92,23 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                        - Data Science Professional Certificate
+                        1 - Data Science Professional Certificate
                         By IBM
                         </span>
                      </li>
                      <li>
                         <span>
-                        - Machine Learning Professional Certificate
+                        2 - Machine Learning Professional Certificate
                         By IBM
                         </span>
                      </li>
                      <span>
-                     - GIS, Mapping, and Spatial Analysis Specialization
+                     3 - GIS, Mapping, and Spatial Analysis Specialization
                      By University of Toronto
                         </span>
                      <li>
                      <span>
-                     - Data Analytics Professional Certificate
+                     4 - Data Analytics Professional Certificate
                      By Google
                         </span>
                      </li>   
