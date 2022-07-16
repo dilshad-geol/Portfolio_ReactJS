@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Dilshad Raza",
+    "occupation": "Data Scientist, Geologist",
+    "description": "I analyze and explore Earth and Environmental data from data sources including Wells, field studies, and field surveys",
+    "image": "profilepic.jpg",
+    "bio": "I am Dilshad Raza, a Geologist, Self Learned Data Scientist. I am motivated to work with the company that can help me acheive my goal while in which I can add value to. I am a Team Player, Cooperative, Acheiver, and a Believer. I do believe with consistent hardwork and passion, anything can be acheived.",
+    "contactmessage": "If you have any queries or suggestions please contact:",
+    "email": "dilshad.geologist@gmail.com",
+    "phone": "+92-308-762-5314",
+    "address": {
+      "street": "",
+      "city": "Lahore",
+      "state": "Punjab",
+      "zip": "54590"
+    },
+    "website": "https://github.com/dilshad-geol",
+    "resumedownload": "https://github.com/dilshad-geol",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/dilshadraza2818",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/i__dilshad",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dilshad-raza-34b434224/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/being_dilshadraza/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dilshad-geol",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a quick learner, So continuously working to improve my skillset.",
+    "education": [
+      {
+        "school": "Institute of Geology, University Of The Punjab, Lahore.",
+        "degree": "BS(Hons.) Applied Geology",
+        "graduated": "Oct 2023",
+        "description": "Ecological and Environmental , Hydrology, Micropaleontology, Petrology, Geological fieldwork and labwork ( Sampling and Analysis ), Hydrocarbon Exploration Techniques"
+      },
+      {
+        "school": "Superior College Depalpur",
+        "degree": "Intermediate",
+        "graduated": "OCT 2018",
+        "description": "Pre Medical, Public Speaking"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fiverr",
+        "title": "Data Scientist",
+        "years": "February, 2022 - Present",
+        "description": "Data Science Projects, Object Detetction, Artifical Intelligence, Machine Learning, and Deep Learning. "
+      },
+      {
+        "company": "DataXperts",
+        "title": "Data Analyst (Remote)",
+        "years": "August 2021 - May 2022",
+        "description": "Data Wrangling, Exploratory Data Analysis, Data Visualizations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Python3 Programming",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "ArcGIS",
+        "level": "80%"
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Application Suite",
+        "level": "50%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Data Science with Python",
+        "category": "Repository Containing All Notebooks for Learning Data Science with Python.",
+        "image": "dswp.png",
+        "url": "https://github.com/dilshad-geol/Data-Science-with-Python"
+      },
+      {
+        "title": "Petrophysics With Python",
+        "category": "Repository containing notebooks for Petrophysics using Python",
+        "image": "ppwp.jpg",
+        "url": "https://github.com/dilshad-geol/Petrophysics-With-Python"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "Portfolio Resume type Website for Dilshad Raza",
+        "image": "wp.jpg",
+        "url": "https://github.com/dilshad-geol"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Hardworking, Focused and Quick Learner",
+        "user": "Dr. Jawad Munnawar, Assistant Professor, IGUP"
+      },
+      {
+        "text": "Punctual, Goal Oriented, Reliable and Humble person.",
+        "user": "Noman Islam, Manager, DataXperts"
+      }
+    ]
+  }
+}
