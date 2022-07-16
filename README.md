@@ -1,5 +1,15 @@
 # React JS Portfolio Website   
 ![Website Screenshot](wp.jpg "Portfoilio Website Home")
+
+
+# How to run
+
+- Clone the Repository from github
+- Open in VSCode
+- Open New Terminal
+- run command in the terminal **npm install**
+- it will install all the dependencies.
+- then in terminal run command **npm start**
 ## Description
 This is a ReactJS based personal resume website. I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. Its available and can be used to build your own resume/portfolio website.
 
