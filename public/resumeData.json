@@ -57,7 +57,13 @@
         "school": "Superior College Depalpur",
         "degree": "Intermediate",
         "graduated": "OCT 2018",
-        "description": "Pre Medical, Public Speaking"
+        "description": "Analytical Thinking, Public Speaking"
+      },
+      {
+        "school": "F.G. Public School Okara Cantt",
+        "degree": "Matriculation",
+        "graduated": "July 2016",
+        "description": "Science, English Debating"
       }
     ],
     "work": [
@@ -71,14 +77,10 @@
         "company": "DataXperts",
         "title": "Data Analyst (Remote)",
         "years": "August 2021 - May 2022",
-        "description": "Data Wrangling, Exploratory Data Analysis, Data Visualizations"
+        "description": "Data Wrangling, Exploratory Data Analysis, Data Visualizations."
       }
     ],
     "skills": [
-      {
-        "name": "Git",
-        "level": "90%"
-      },
       {
         "name": "Python3 Programming",
         "level": "80%"
@@ -110,7 +112,7 @@
       {
         "title": "Data Science with Python",
         "category": "Repository Containing All Notebooks for Learning Data Science with Python.",
-        "image": "dswp.png",
+        "image": "dswp.jpg",
         "url": "https://github.com/dilshad-geol/Data-Science-with-Python"
       },
       {
