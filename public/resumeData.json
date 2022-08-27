@@ -4,7 +4,7 @@
     "occupation": "Data Scientist, Geologist",
     "description": "I analyze and explore Earth and Environmental data from data sources including Wells, field studies, and field surveys",
     "image": "profilepic.jpg",
-    "bio": "I am Dilshad Raza, a Geologist, Self Learned Data Scientist. I am motivated to work with the company that can help me acheive my goal while in which I can add value to. I am a Team Player, Cooperative, Acheiver, and a Believer. I do believe with consistent hardwork and passion, anything can be acheived.",
+    "bio": "I am a Tech Enthusiast with the main domain of interest in Geosciences. I enjoy studying geology, as a matter of fact, it makes me feel great. Earth is my playground, and I love investigating its features. Besides, Geology, I am proficient in Python programming, Git for version control, Jupyter, and Javascript. I love working with data, as data can provide beautiful insights that can be used to take accurate decisions. Artificial Intelligence is the future, so building my skills in this regard. Within subdomains of AI, Machine Learning and Deep Learning are the most exciting ones.",
     "contactmessage": "If you have any queries or suggestions please contact:",
     "email": "dilshad.geologist@gmail.com",
     "phone": "+92-308-762-5314",
@@ -69,7 +69,7 @@
     "work": [
       {
         "company": "Fiverr",
-        "title": "Data Scientist",
+        "title": "Data Scientist Level 1 Seller",
         "years": "February, 2022 - Present",
         "description": "Data Science Projects, Object Detetction, Artifical Intelligence, Machine Learning, and Deep Learning. "
       },
@@ -78,6 +78,13 @@
         "title": "Data Analyst (Remote)",
         "years": "August 2021 - May 2022",
         "description": "Data Wrangling, Exploratory Data Analysis, Data Visualizations."
+      }
+    ],
+    "Honours, Grants, and Awards": [
+      {
+        "Award": "L. Austin Weeks Undergraduate Grant",
+        "By": "American Asociation of Petroleum Geologists (AAPG)",
+        "Awarded Year": "June, 2022"
       }
     ],
     "skills": [
@@ -90,7 +97,7 @@
         "level": "70%"
       },
       {
-        "name": "ArcGIS",
+        "name": "GIS",
         "level": "80%"
       },
       {
@@ -123,7 +130,7 @@
       },
       {
         "title": "Portfolio Website",
-        "category": "Portfolio Resume type Website for Dilshad Raza",
+        "category": "My Portfolio Resume site",
         "image": "wp.jpg",
         "url": "https://github.com/dilshad-geol/Portfolio_ReactJS"
       }
@@ -138,6 +145,10 @@
       {
         "text": "Punctual, Goal Oriented, Reliable and Humble person.",
         "user": "Noman Islam, Manager, DataXperts"
+      },
+      {
+        "text": "If he can find the solution to any problem. Great Exprience Working with him.",
+        "user": "javiergsanchez_, Fiverr Client"
       }
     ]
   }
