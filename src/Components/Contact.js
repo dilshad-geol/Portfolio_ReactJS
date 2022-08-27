@@ -121,45 +121,5 @@ class Contact extends Component {
   }
 }
 
-               <div className="widget widget_tweets">
-                  <h4 className="widget-title">Courses and Certifications</h4>
-                  <ul id="twitter">
-                     <li>
-                        <span>
-                        1 - Data Science Professional Certificate
-                        By IBM
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        2 - Machine Learning Professional Certificate
-                        By IBM
-                        </span>
-                     </li>
-                     <span>
-                     3 - GIS, Mapping, and Spatial Analysis Specialization
-                     By University of Toronto
-                        </span>
-                     <li>
-                     <span>
-                     4 - Data Analytics Professional Certificate
-                     By Google
-                     </span>
-                     </li>
-                  <h4 className="widget-title">Grants and Awards</h4> 
-                  <ul id="twitter">
-                     <li>
-                        <span>
-                        1. L. Austin Week Undergraduate Grant 2022 by American Association of Petroleum Geologists AAPG
-                        </span>
-                        <li>
-                  </ul>
-		         </div>
-            </aside>
-      </div>
-   </section>
-    );
-  }
-}
 
 export default Contact;
