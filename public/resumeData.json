@@ -110,18 +110,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Reach Me on Fiverr",
-        "category": "Fiverr Profile for you guys to work with me..!",
-        "image": "fiv.png",
-        "url": "https://www.fiverr.com/datanalyst28/do-data-science-with?context_referrer=user_page&ref_ctx_id=affc4a309b4a46515d6b5f6b77ba60fc&pckg_id=1&pos=1&seller_online=true&imp_id=cfacbd0a-0692-46e1-8095-057b4ba35d1f"
-      },
-      {
-        "title": "Data Science with Python",
-        "category": "Repository Containing All Notebooks for Learning Data Science with Python.",
-        "image": "dswp.jpg",
-        "url": "https://github.com/dilshad-geol/Data-Science-with-Python"
-      },
-      {
         "title": "IRIS 2022 Seismology Skill Building Workshop",
         "category": "Repository Containing Completed Material and Tutorials for SSBW22 with data.",
         "image": "ssbw.jpg",
@@ -134,12 +122,6 @@
         "url": "https://github.com/dilshad-geol/Petrophysics-With-Python"
       },
       {
-        "title": "LinkedIn Portfolio",
-        "category": "LinkedIn Portfolio",
-        "image": "lkd.png",
-        "url": "https://www.linkedin.com/in/dilshad-raza-34b434224/"
-      },
-      {
         "title": "Machine Learning Training Projects",
         "category": "Repository containing Machine Learning Projects",
         "image": "mlp.png",
@@ -150,13 +132,6 @@
         "category": "Repository containing Data Sceince Projects",
         "image": "dsp.jpg",
         "url": "https://github.com/dilshad-geol/DataScienceProjects"
-      },
-      
-      {
-        "title": "Portfolio Website",
-        "category": "My Portfolio Resume site",
-        "image": "wp.jpg",
-        "url": "https://github.com/dilshad-geol/Portfolio_ReactJS"
       }
     ]
   },
