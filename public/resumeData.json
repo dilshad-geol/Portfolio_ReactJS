@@ -134,6 +134,25 @@
         "url": "https://github.com/dilshad-geol/Petrophysics-With-Python"
       },
       {
+        "title": "LinkedIn Portfolio",
+        "category": "LinkedIn Portfolio",
+        "image": "lkd.png",
+        "url": "https://www.linkedin.com/in/dilshad-raza-34b434224/"
+      },
+      {
+        "title": "Machine Learning Training Projects",
+        "category": "Repository containing Machine Learning Projects",
+        "image": "mlp.png",
+        "url": "https://github.com/dilshad-geol/MachineLearningTrainingProjects"
+      },
+      {
+        "title": "Data Science Projects",
+        "category": "Repository containing Data Sceince Projects",
+        "image": "dsp.jpg",
+        "url": "https://github.com/dilshad-geol/DataScienceProjects"
+      },
+      
+      {
         "title": "Portfolio Website",
         "category": "My Portfolio Resume site",
         "image": "wp.jpg",
