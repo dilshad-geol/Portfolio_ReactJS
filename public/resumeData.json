@@ -82,27 +82,27 @@
     ],
     "skills": [
       {
-        "name": "Python3 Programming",
+        "name": "Programming Proficiency",
+        "level": "90%"
+      },
+      {
+        "name": "Data Sceince",
         "level": "80%"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
-      },
-      {
-        "name": "GIS",
+        "name": "Machine Learning",
         "level": "80%"
       },
       {
-        "name": "Microsoft Office",
+        "name": "Deep Learning/Neural Networks",
         "level": "80%"
       },
       {
         "name": "Adobe Application Suite",
-        "level": "50%"
+        "level": "90%"
       },
       {
-        "name": "Machine Learning",
+        "name": "Microsoft Office",
         "level": "80%"
       }
     ]
@@ -114,6 +114,12 @@
         "category": "Repository Containing All Notebooks for Learning Data Science with Python.",
         "image": "dswp.jpg",
         "url": "https://github.com/dilshad-geol/Data-Science-with-Python"
+      },
+      {
+        "title": "IRIS 2022 Seismology Skill Building Workshop",
+        "category": "Repository Containing Completed Material and Tutorials for SSBW22 with data.",
+        "image": "ssbw.jpg",
+        "url": "https://github.com/dilshad-geol/IRIS-2022-Seismology-Skill-Building-Workshop"
       },
       {
         "title": "Petrophysics With Python",
@@ -138,6 +144,10 @@
       {
         "text": "Punctual, Goal Oriented, Reliable and Humble person.",
         "user": "Noman Islam, Manager, DataXperts"
+      },
+      {
+        "text": "He is very good, and has very good communication skills. You will be glad to have chosen him."
+        "user": "stillstanding18, Fiverr Client"
       },
       {
         "text": "He can find the solution to any problem. Great Exprience Working with him.",
